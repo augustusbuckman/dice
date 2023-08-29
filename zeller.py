@@ -1,4 +1,4 @@
-# File: zeller.py
+# File: dice.py
 # Description: <A DESCRIPTION OF YOUR PROGRAM>
 # Assignment Number: 3
 #
