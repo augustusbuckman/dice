@@ -18,6 +18,7 @@ def test_dice():
         "This program simulates the dice game of craps.",
         "Do you want to set the seed? Enter y for yes, anything else for no: ",
         "Enter the number of rounds to run: ",
+        "Enter an int for the initial seed: ",
         "Player won 4927042 times in 10000000 rounds.",
         "Maximum number of rolls in a round = 52"
     ]
